@@ -1,4 +1,4 @@
-#include "spark-plotly.h"
+#include "spark-plotly/spark-plotly.h"
 
 #define DATA_POINTS 4
 
