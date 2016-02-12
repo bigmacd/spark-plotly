@@ -2,6 +2,6 @@
   "name": "spark-plotly",
   "author": "Martin Cooley",
   "license": "MIT",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Based off Plot.ly examples for Arduino."
 }
